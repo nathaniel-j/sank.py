@@ -1,0 +1,9 @@
+name: sank_o_rama
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - requests
+  - ipywidgets
+  - plotly
