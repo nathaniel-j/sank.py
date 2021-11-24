@@ -1,9 +1,0 @@
-name: sank_o_rama
-
-dependencies:
-  - python
-  - numpy
-  - requests
-  - ipywidgets
-  - plotly
-  - voila
