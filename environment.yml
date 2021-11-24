@@ -1,6 +1,5 @@
 name: sank_o_rama
-channels:
-  - conda-forge
+
 dependencies:
   - python
   - numpy
