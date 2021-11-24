@@ -6,5 +6,8 @@ Understanding these "flows" is essential to creating and measuring the effective
 
 I am proposing the use of a Sankey diagram that helps to capture and quickly visualize the dynamic nature of homelessness using existing data. At a glance we can see the ratios for people entering and exiting the system. This diagram has potential to have layers of additional information added to it as well. Perhaps several yearly diagrams could be strung together to see how the flows compare year to year. Perhaps lines or scatter plots could be added to represent specific populations or target ranges. Perhaps a sankey style spending diagram could be overlaid so we can compare the level of spending to the results or level of the issue being addressed. There is plenty of room for growth and innovation here, so let's get started!
 
-check out the interactive version below!
+check out the interactive version [here!](https://mybinder.org/v2/gh/nathaniel-j/sank.py/HEAD?urlpath=voila%2Frender%2Fstatic_sankey.ipynb)
+
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathaniel-j/sank.py/HEAD?urlpath=voila%2Frender%2Fstatic_sankey.ipynb)
